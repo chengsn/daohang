@@ -21,7 +21,7 @@
 
 移动端
 
-![avatar](https://github.com/leslieyin/dns/blob/master/pic/example/dh/2.GIF)
+![avatar](https://cdn.jsdelivr.net/gh/leslieyin/dns@master/pic/example/dh/2.GIF)
 
 #### 感谢
 特别感谢 [5iux](https://github.com/5iux/sou) 提供的原始代码
