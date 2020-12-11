@@ -2,7 +2,7 @@
 
 一个专注极简的导航主页。
 
-网站： [https://nav.yhz610.com/](https://nav.yhz610.com/)
+网站： [https://leslieyin.github.io/jjdaohang.github.io/](https://leslieyin.github.io/jjdaohang.github.io/)
 
 #### 特点
 
